@@ -1,2 +1,3 @@
 *.csvmlruns/
 venv/
+.DS_Store
